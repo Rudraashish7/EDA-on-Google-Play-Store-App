@@ -7,7 +7,7 @@ This repository contains an exploratory data analysis (EDA) project focused on a
 ## Problem Statement
 The objective of this project was to perform a comprehensive analysis of the Google Play Store, addressing various problem statements to gain insights into app categories, ratings, content ratings, sentiments, genres, pricing, size, and correlations between different variables. By analyzing these aspects, the project aimed to provide valuable insights for app developers and stakeholders to make informed decisions in the highly competitive app marketplace.
 
-## Summary and Conclusion
+## Summary
 Google Play Store is renowned as one of the largest and most popular Android app stores worldwide. With its extensive collection of apps and a wealth of data, it presents an optimal opportunity for creating effective models and identifying trends and future challenges.
 
 In this EDA project, we utilized two raw datasets from Kaggle: one containing Play Store attributes and the other consisting of user reviews. The first dataset encompasses 13 different attributes, while the second dataset provides five additional features for data manipulation and analysis.
@@ -57,7 +57,7 @@ Key insights and conclusions drawn from our analysis include:
 
 - By successfully achieving our project objectives and answering our research questions, we have obtained valuable insights into the Google Play Store apps ecosystem and the trends within.
 
-## Summary and Conclusion
+## Conclusion
 To achieve our business objectives, we need to strategically address the key findings and conclusions derived from our analysis. Based on the provided insights, we have identified several actionable solutions.
 
 - Firstly, we should focus on capitalizing on the popularity of the Art and Design category, which has the highest number of installs. By allocating our resources 
